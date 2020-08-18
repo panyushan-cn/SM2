@@ -89,5 +89,3 @@ public class SM2UtilTest {
 		}
 
 	}
-//this is a test
-//now it's time to have a good time
