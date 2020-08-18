@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sm2:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/sm2_jar</output-path>
+    <root id="archive" name="sm2.jar">
+      <element id="module-output" name="sm2" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/bcprov-jdk15on-1.61.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
