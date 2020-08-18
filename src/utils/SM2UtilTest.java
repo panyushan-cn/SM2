@@ -88,4 +88,3 @@ public class SM2UtilTest {
 
 		}
 	}
-	//this is a test
